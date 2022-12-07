@@ -1,5 +1,6 @@
 import React from "react";
+import HeaderSite from "./components/HeaderSite/HeaderSite";
 
-const App = () => <p>App</p>;
+const App = () => <HeaderSite />;
 
 export default App;
